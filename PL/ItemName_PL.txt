@@ -1,0 +1,6 @@
+ItemName_PL = {
+    ItemName_RC_TempSimMod.Mov_RCElectricHeater1 = "Grzejnik Elektryczny",
+    ItemName_RC_TempSimMod.Mov_RCElectricHeater2 = "Kompaktowy Grzejnik Elektryczny",
+    ItemName_RC_TempSimMod.Mov_RCGasHeater = "Grzejnik Gazowy",
+    ItemName_RC_TempSimMod.Mov_RCIndustrialHeater = "Grzejnik Przemysłowy",
+}

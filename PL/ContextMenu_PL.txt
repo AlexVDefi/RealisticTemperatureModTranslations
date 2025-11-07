@@ -1,0 +1,8 @@
+ContextMenu_PL = {
+    ContextMenu_RCTurnOffHeater = "Wyłącz Grzejnik",
+    ContextMenu_RCTurnOnHeater = "Włącz Grzejnik",
+    ContextMenu_RCDetachPropaneTank = "Odłącz Butlę z Propanem",
+    ContextMenu_RCAttachPropaneTank = "Podłącz Butlę z Propanem",
+    ContextMenu_NeedPropaneTank = "Wymaga Butli z Propanem",
+    ContextMenu_RCNeedsElectricity = "Wymaga zasilania",
+}

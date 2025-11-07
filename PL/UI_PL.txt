@@ -1,0 +1,5 @@
+UI_PL = {
+    IGUI_RCHeatSettingLow = "Niski",
+    IGUI_RCHeatSettingMedium = "Średni",
+    IGUI_RCHeatSettingHigh = "Wysoki",
+}
